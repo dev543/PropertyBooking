@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (5.8.1)
+  - AWSCore (2.33.5)
+  - AWSS3 (2.33.5):
+    - AWSCore (= 2.33.5)
+  - IQKeyboardManagerSwift (6.5.16)
+  - lottie-ios (4.3.3)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - QorumLogs (0.9)
+  - SDWebImage (5.18.5):
+    - SDWebImage/Core (= 5.18.5)
+  - SDWebImage/Core (5.18.5)
+  - SimpleImageViewer (1.1.1)
+  - Siren (6.1.2)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - AWSCore
+  - AWSS3
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - Moya
+  - QorumLogs
+  - SDWebImage
+  - SimpleImageViewer
+  - Siren
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AWSCore
+    - AWSS3
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - Moya
+    - QorumLogs
+    - SDWebImage
+    - SimpleImageViewer
+    - Siren
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  AWSCore: 6d8aa46c210e37f15c10509437a9c8570f7290bd
+  AWSS3: 127f7865b056756cd90d4a15c72d0822a2112fce
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  lottie-ios: 25e7b2675dad5c3ddad369ac9baab03560c5bfdd
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  QorumLogs: 9a484df6973a3697ac79fe2273140fde6b36dccc
+  SDWebImage: 7ac2b7ddc5e8484c79aa90fc4e30b149d6a2c88f
+  SimpleImageViewer: 34c3a2cde2d9ac022146772cefc27fca14b0c8b1
+  Siren: c951ae243b57160629fb2e4d2f630cbfc5d5452b
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: b81c5c68a8a4e0ffe940802610458087c2e668f1
+
+COCOAPODS: 1.10.0

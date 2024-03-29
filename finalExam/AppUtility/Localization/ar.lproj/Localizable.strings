@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  finalExam
+
+  Created by Hyperlink on 01/12/23.
+  
+*/
+//MARK: - Welcome Screen Localization key
+
+"titleWelcome"               = "Sagittis nisi nisl faucibus\n ullamcorper volutpat lectus.";
+"subTitle"                   = "Proin enim tortor, dictum a quis suscipit vulputate et\nduis Massa varius.";
+"skip"                       = "يتخطى";
+
+//------------------------------------
+
+//MARK: - Login Screen Localization key
+
+"ASmarterWayToSave"              = "طريقة أكثر ذكاءً لحفظ...";
+"weDontSellDealsWeGiveThemToYou" = "نحن لا نبيع العروض، بل نعطيها لك...";
+"logIn"                          = "تسجيل الدخول";
+"letsGetStarted"                 = "هيا بنا نبدأ!";
+"emailUsername"                  = "البريد الإلكتروني/اسم المستخدم";
+"password"                       = "كلمة المرور";
+"forgotPassword"                 = "هل نسيت كلمة السر؟";
+"dontHaveAnAccountSignUp"        = "ليس لديك حساب؟ اشتراك";
+"emailPlaceholder"               = "أدخل البريد الإلكتروني";
+"passwordPlaceholder"            = "أدخل كلمة المرور";
+
+//------------------------------------
+
+//MARK: - Forgot Password Screen Localization key
+
+"forgotPasswordTWo"              = "هل نسيت كلمة السر";
+"enterYourEmailAddressAnd"       = "أدخل عنوان بريدك الإلكتروني وسنرسل لك رابطًا لإعادة تعيين كلمة المرور الخاصة بك.";
+"email"                          = "بريد إلكتروني";
+"submit"                         = "يُقدِّم";
+
+//------------------------------------
+
+//MARK: - SignUp Screen Localization key
+
+"signUp"                     = "اشتراك";
+"toContinue"                 = "لاستكمال!";;
+"userName"                   = "اسم المستخدم";
+"firstName"                  = "الاسم الأول";
+"lastName"                   = "اسم العائلة";
+"phoneNumber"                = "رقم التليفون";
+"address"                    = "عنوان";
+"terms"                      = "أوافق على الشروط والأحكام وسياسة الخصوصية.";
+"alreadyHaveAnAccountLogIn"  = "هل لديك حساب؟ تسجيل الدخول";
+"imgDrop"                    = "يسقط";
+"code"                       = "واحد";
+"termsAndConditions"         = "الأحكام والشروط";
+"privacyPolicy"              = "سياسة الخصوصية.";
+
+"usernamePlaceholder"        = "ادخل اسم المستخدم";
+"firstNamePlaceholder"       = "أدخل الاسم الأول";
+"lastNamePlaceholder"        = "إدخال اسم آخر";
+"phoneNumberPlaceholder"     = "أدخل رقم الهاتف";
+"addressPlaceholder"         = "أدخل العنوان";
+
+//------------------------------------
+
+//MARK: - OTP Screen Localization key;
+
+"title"                      = "تحتاج إلى التحقق من رقم هاتفك المحمول. لقد أرسلنا رمز التحقق إلى";
+"verify"                     = "يؤكد";
+"resendCodeIn"               = "إعادة إرسال الرمز في";
+"mobile"                     = "التحقق عبر الهاتف المحمول";
+
+//------------------------------------
+

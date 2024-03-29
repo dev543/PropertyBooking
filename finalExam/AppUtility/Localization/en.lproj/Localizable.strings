@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  finalExam
+
+  Created by Hyperlink on 01/12/23.
+  
+*/
+
+//MARK: - Welcome Screen Localization key
+
+"titleWelcome"               = "Sagittis nisi nisl faucibus\n ullamcorper volutpat lectus.";
+"subTitle"                   = "Proin enim tortor, dictum a quis suscipit vulputate et\nduis Massa varius.";
+"skip"                       = "Skip";
+
+//------------------------------------
+
+//MARK: - Login Screen Localization key
+
+"ASmarterWayToSave"              = "A smarter way to save...";
+"weDontSellDealsWeGiveThemToYou" = "We don’t sell Deals, we give them to you...";
+"logIn"                          = "Log In";
+"letsGetStarted"                 = "Let’s Get Started!";
+"emailUsername"                  = "Email/Username";
+"password"                       = "Password";
+"forgotPassword"                 = "Forgot Password?";
+"dontHaveAnAccountSignUp"        = "Don’t have an account? Sign Up";
+"emailPlaceholder"               = "Enter email";
+"passwordPlaceholder"            = "Enter Password";
+
+//------------------------------------
+
+//MARK: - Forgot Password Screen Localization key
+
+"forgotPasswordTWo"              = "Forgot Password";
+"enterYourEmailAddressAnd"       = "Enter your email address and we will send a link to reset your password.";
+"email"                          = "Email";
+"submit"                         = "Submit";
+
+//------------------------------------
+
+//MARK: - SignUp Screen Localization key
+
+"signUp"                     = "Sign Up";
+"toContinue"                 = "To continue!";
+"userName"                   = "Username";
+"firstName"                  = "First Name";
+"lastName"                   = "Last Name";
+"phoneNumber"                = "Phone Number";
+"address"                    = "Address";
+"terms"                      = "I agree with Terms and Conditions & Privacy Policy.";
+"alreadyHaveAnAccountLogIn"  = "Already have an account? Log In";
+"imgDrop"                    = "Drop";
+"code"                       = "+1";
+"termsAndConditions"         = "Terms and Conditions";
+"privacyPolicy"              = "Privacy Policy.";
+
+"usernamePlaceholder"        = "Enter username";
+"firstNamePlaceholder"       = "Enter first name";
+"lastNamePlaceholder"        = "Enter last name";
+"phoneNumberPlaceholder"     = "Enter phone number";
+"addressPlaceholder"         = "Enter address";
+
+//------------------------------------
+
+//MARK: - OTP Screen Localization key
+
+"title"                      = "Need to verify your mobile number. We have sent a verification code to";
+"verify"                     = "Verify";
+"resendCodeIn"               = "Resend code in";
+"mobile"                     = "Mobile Verification";
+
+//------------------------------------
